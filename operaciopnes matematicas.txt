@@ -1,0 +1,16 @@
+
+1. Escribe un programa que lea de la entrada estandar dos n ´ umeros y muestre en la ´
+salida estandar su suma, resta, multiplicaci ´ on y divisi ´ on. Nota: suponiendo que las ´
+variables x e y almacenan dos numeros, las expresiones ´ x+y, x−y, x∗y y x/d calculan
+la suma, resta, producto y division respectivamente de los valores almacenados en ´
+las variables. Por ejemplo, suponiendo que el usuario introduce los numeros 6 y 3 el ´
+programa mostrara lo siguiente: ´
+Suma: 9
+Resta: 3
+Producto: 18
+Division: 2
+
+//declarar varibale
+//entradade datos
+//operar variables
+//salida de datos
